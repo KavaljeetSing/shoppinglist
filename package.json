@@ -1,0 +1,15 @@
+{
+  "name": "shoppinglistsss",
+  "version": "1.0.0",
+  "description": "shoppinglistsss",
+  "main": "index.js",
+  "scripts": {
+    "test": "main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "code ."
+  },
+  "author": "kaval",
+  "license": "MIT"
+}
